@@ -5,7 +5,6 @@ Computer Science student at Harokopio University of Athens.
 I am interested in:
 
 - Data Science
-- Machine Learning
 - Data Engineering
 - Business Intelligence
 
