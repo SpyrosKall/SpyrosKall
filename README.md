@@ -1,7 +1,7 @@
 # Hi, I'm Spyridon 👋
 
--
 Data-focused Informatics professional with hands-on experience in Python, SQL, machine learning, data analysis and business intelligence.
+
 ---
 
 ## Technologies
