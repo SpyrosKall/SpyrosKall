@@ -4,6 +4,13 @@ Data-focused Informatics professional with hands-on experience in Python, SQL, m
 
 ---
 
+## Areas of Focus
+
+* Data Analytics
+* Data Engineering
+* Machine Learning
+* Business Intelligence
+
 ## Technologies
 
 Python • SQL • Pandas • NumPy • Scikit-learn • Power BI
