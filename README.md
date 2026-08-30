@@ -1,13 +1,7 @@
 # Hi, I'm Spyridon 👋
 
-Computer Science student at Harokopio University of Athens.
-
-I am interested in:
-
-- Data Science
-- Data Engineering
-- Business Intelligence
-
+-
+Data-focused Informatics professional with hands-on experience in Python, SQL, machine learning, data analysis and business intelligence.
 ---
 
 ## Technologies
